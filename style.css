@@ -1,0 +1,73 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    background-color: lightgray;
+}
+.header{
+    background-image: url(images/shapes/Frame\ 57.jpg);
+}
+h1{
+    font-size: 50px;
+}
+section{
+    display: flex;
+    padding: 50px;
+}
+.half-width{
+    width: 50%;
+}
+.img-1{
+    height: 500px;
+    width: 480px;
+    border-radius: 5px solid white;
+    padding-left: 30%;
+}
+.order{
+    text-decoration: none;
+    background-color: orange;
+    padding: 10px 40px;
+    border-radius: 50px;
+    color: white;
+    font-weight: bold;
+}
+.main{
+    background-image: url(images/shapes/Frame\ 59.jpg);
+    background-repeat: no-repeat;
+}
+.contact{
+    text-decoration: none;
+    background-color: orange;
+    padding: 10px 40px;
+    border-radius: 50px;
+    color: white;
+    font-weight: bold;
+}
+.cover{
+    height: 500px;
+    width: 500px;
+}
+.shadow{
+   padding-left: 5%;
+   padding-right: 5%;
+   padding-top: 5%;
+   margin-left: 2%;
+   margin-right: 2%;
+    text-align: center;
+    box-shadow: 10px 10px 40px black;
+    border-radius: 10px;
+    margin-top: 50px;
+}
+.one{
+    width: 33.3%;
+    margin-left: 10%;
+    box-shadow: 10px 10px 40px black;
+    padding-left: 7%;
+    border-radius: 10px;
+}
+.footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+    margin-bottom: 0px;
+    padding: 10px;
+}
